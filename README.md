@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+ - Computer Technician by IFBA.
+ - I'm currently learning about the mysteries of Java development.
 
-<!--
-**rodrigo-alberto/rodrigo-alberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Main technologies:
 
-Here are some ideas to get you started:
+<div style="display: inline-block;">
+        <img alt="Java" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
+        <img alt="HTML5" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img alt="CSS3" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other contacts:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-alberto-287bb1274)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoalberto.m.sousa@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigo_sousa._)
+##
