@@ -17,7 +17,7 @@ Hello, my name is **Rodrigo Alberto** and I'm a technology enthusiast, fascinate
 #### Technologies and tools:
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-        <img alt="Java" title='Java' height="30px" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
+        <img alt="Java" title='Java' height="35px" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
         <img alt="Spring" title='Spring' height="30px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
         <img alt="HTML5" title='HTML5' height="30px" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="CSS3" title='CSS3' height="30px" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
