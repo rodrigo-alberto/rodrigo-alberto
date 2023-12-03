@@ -1,6 +1,6 @@
 Hello, my name is **Rodrigo Alberto** and I'm a technology enthusiast, fascinated by the world of programming. Graduated as a Computer Technician from IFBA, I'm always looking for new challenges and opportunities to learn.
 
-- I'm part of the [Recode Pro](https://recodepro.org.br/) full-stack training program;
+- I'm part of the <a href="https://recodepro.org.br/" target="_blank">Recode Pro</a> full-stack training program;
 - Currently, I am learning about the mysteries of Java development;
 
 📫 Feel free to connect with me through the channels below, or by sending me an e-mail: **rodrigoalberto.m.sousa@gmail.com**
@@ -10,7 +10,7 @@ Hello, my name is **Rodrigo Alberto** and I'm a technology enthusiast, fascinate
     <img alt='E-mail' src='https://img.shields.io/badge/email-424B54.svg?&style=for-the-badge&logo=Gmail&logoColor=FFFFFF&color=424B54'>
   </a> 
   <a href='https://www.linkedin.com/in/rodrigo-alberto-/'>
-    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-424B54.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&color=424B54'>
+    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-424B54.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&color=424B54' target="_blank">
   </a>
 </div>
 
